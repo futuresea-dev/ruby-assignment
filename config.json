@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pdfs-parser",
+  "private_key_id": "5e2fe8f13e341245ee5d5db29a939cc51da46a4e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9zt0+xVGstrsC\nd/fjE2cn9yKfJQ4EMiVTbnevkMuz0h9YcawECW5wUIRaEvmRp8TAOv2dM2a17QiY\nd3MfgKwVA1tZmk/erEcNsxoGCntPWmpWnJQemy8er74Ss+Inh2xIR1nzBh4O9HsS\n8LMB6jEBuUxT228nwFIr81fMvitVogIZOFy2xeSA94d1CP192Twamz8x+uq80p7f\n6odkFwDrsIA8hRzciEOcuLZQwKoMESuwRIFMlFp1uAQ/a3NovbAED7YblPFFuwcL\nFG7dz+D5aVumEztrhrnduZJK+l8Cy2CDBWAvML8e9JW0jlxyhBTgH+OrUA4nYIzk\n6KkkfGoZAgMBAAECggEACS5yA6t40sbOD1sCmds3lgvS2BRAntGsKOKC60ew9YRY\nXCdiKkR92/SmdP2jpo471WP6c6Rnt1d9dHPxai3dD8Z8oJN3LJl0dcRa9xLXudQb\nqQ/kQazBCpYhYXc5HS9kUgS9jvoV8c7qtdUAhmWv3tpPR7kpdyigRkb8UXJGLLCs\nVfT6pHgQ+qM0UQgpuPJJDClOVyoflt3i5JnWyXobz163lGo00FBjJ2OLedNMmCgf\nlvn2hhL0G9Xke+vHfDFF4XEyiVx5BhL3f833cuKZYxA0rJojyMeZw4xLOJ+IogmT\navy3XuzwJ+cUQSygQHBzNpCBxANda3RHwygqGzDrxwKBgQDp3/mZ51Su3kSCDrPV\nm8C0bSiM+tUGfQQtbrY1DP5rzDQJbOY+RgKrWf5+wTn1KvFGoHNbsIbLb6lzZ1zV\nLvgwqJKi1Exo9SrMmYuCXj5EgPWVyyUnwQLPCgqTcD1LUBI1VkiZfPd/Qu0D/w2s\nNGOvbrXjaAFm7+HJWzR7k908xwKBgQDPw6ul7pGtJZJHjsBH5JJVK8HfyhE5rFA0\nmJDtYxij3LOOGPmTrLL+cc3BtlwMciqB4DIJb/NFt5QXfMxvaxBPIWvE3NmueufT\nZPeTPO4sIVNs9jnb7Rr2RLFJ6E+3hsbjBFmi9w3PsXQuudUmAIJgpogbz71GzIx8\n3urd5oOCHwKBgQDP1qRZmlQOZyZYsjoszZKOhSdxSgQAFR+eRHIWaSq8n6dq7OUc\nWFlM79gTyyH3d6cdjb+WryTLK7tZ/HRqW6hijZxqqeIRsDbNxnJNc/VAKZ6V9Qda\n8dLOLW1Co49FG65iygAQrxa/eLlrQMFk1NX19JwdsLL2SJ3NtIjKfZgxxwKBgGIM\n9Sf1JBjz30oYC5SiQZEienez9FckhCGeUt9FYi6LDM4l6TsRSNQePz2JY32YL4ll\nlhewFr4zOhevlQeMHoFJw4N/utfGNzwjrVd2bOy0uZt1xK6PAqdwmb7IfT6ew6QF\nvIvVTlZTaAJZP0eU+/LDBP8jFi+gfzi7N1qL3Ep/AoGAUbDfZO8XnwumwQVyls8M\nCdf/7DkvuoktDCs3OaIkaqupLfPpnWdk+xNy11xLFIWKsw32XOVRD25E25g9ywI5\nMvAQw0Rkhh+wR5J7vOBILTTJqRhW4pplUqjjKUOp1xB1Wllji/vCUPlMBIiUw+jB\nHOWMhbjt8Ko/fAgdevLBzSc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pdf-parser@pdfs-parser.iam.gserviceaccount.com",
+  "client_id": "103089858539931110582",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pdf-parser%40pdfs-parser.iam.gserviceaccount.com"
+}
